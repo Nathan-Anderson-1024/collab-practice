@@ -1,0 +1,11 @@
+#nav, #footer {
+    height: 10vh;
+}
+
+#left-column, #right-column {
+    height: 80vh;
+}
+
+div {
+    text-align: center;
+}
